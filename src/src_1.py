@@ -7,6 +7,6 @@
 
 # BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBb
 
-***REMOVED***  
+Pass = 'This is the password content  '  
 
 
