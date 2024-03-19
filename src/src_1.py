@@ -9,4 +9,11 @@
 
 Pass = 'This is the password content  '  
 
+def new_function(): 
+    pass
 
+def last_function():
+    pass
+
+def export_function():
+    pass
